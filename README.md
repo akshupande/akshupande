@@ -23,3 +23,5 @@
 - 💬 Ask me about Cloud(AWS, Azure,...), Python, Java, R, SQL, HTML, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 
+[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshupande&show_icons=true&theme=dark)](https://github.com/akshupande/github-readme-stats)
+
