@@ -23,7 +23,7 @@
 - 💬 Ask me about Cloud(AWS, Azure,...), Python, Java, R, SQL, HTML, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 
-[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshupande&count_private=true&show_icons=true&theme=dark)]
+[![Akshat's GitHub stats]()]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshupande&layout=compact)]
 
@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshupande&show_icons=true&locale=en&layout=compact" alt="akshupande" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=akshupande&show_icons=true&locale=en&count_private=true&show_icons=true&theme=dark" alt="akshupande" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshupande&count_private=true&show_icons=true&theme=dark" alt="akshupande" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshupande" alt="akshupande" /></p>
