@@ -22,15 +22,6 @@
 
 - 💬 Ask me about Cloud(AWS, Azure,...), Python, Java, R, SQL, HTML, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
-
-[![Akshat's GitHub stats]()]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshupande&layout=compact)]
-
-[![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshupande)]
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshupande&show_icons=true&locale=en&layout=compact&theme=dark" alt="akshupande" /></p>
