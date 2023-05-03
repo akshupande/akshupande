@@ -12,7 +12,14 @@
 <a href= "https://github.com/akshupande"><img align="center" src="https://user-images.githubusercontent.com/87655422/235964799-d06da77f-9cc9-4ce5-8b50-73e5dfc98b20.png" alt=" " height="30" width="40" /></a> https://github.com/akshupande
 </p>
 
-- 💬 Ask me about **Cloud(AWS, Azure,...) | Python | Java | R | SQL | HTML | Django | Power BI | Tableau | Lucidchart | Linux | Competitive Coding**
+- 👀 Check out my LinkedIn profile to see my work experience, certifications, events, and competition experience! 
 
+- 🔭 I’m currently working on **Full Stack Development, Cloud, Machine Learning & Deep Learning**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👯 I’m looking to collaborate on **Python Projects**
+
+- 💬 Ask me about Cloud(AWS, Azure,...), Python, Java, R, SQL, HTML, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 
