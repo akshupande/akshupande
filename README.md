@@ -28,3 +28,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshupande&layout=compact)]
 
 [![Akshat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshupande)]
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshupande&show_icons=true&locale=en&layout=compact" alt="akshupande" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshupande&show_icons=true&locale=en" alt="akshupande" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshupande" alt="akshupande" /></p>
