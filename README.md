@@ -9,7 +9,7 @@
 
 - 👀 Check out my LinkedIn profile to see my work experience, certifications, events, and competition experience! 
 
-- 💬 Ask me about Cloud(AWS, Azure,...), Python, Java, R, SQL, HTML, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
+- 💬 Ask me about Cloud(AWS), Python, Java, R, MySQL, MongoDB, Django, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
