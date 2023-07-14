@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I am Akshat Pande</h1>
 <h3 align="center">An Developer and Lifelong learner !!!</h3>
 
-- 🔭 I’m currently working on **Full Stack Development, Cloud, Machine Learning & Deep Learning**
+- 🔭 I’m currently working on **Back-end, Cloud, Machine Learning & Deep Learning**
 
 - 🌱 I’m currently learning **Data Science**
 
