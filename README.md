@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Akshat Pande</h1>
 <h3 align="center">B.Tech - IT</h3>
-<h5 align="center">Open to Work</h5>
+<h4 align="center">Open to Work</h4>
 
 - 🔭 I’m currently working on **Back-end, Cloud, Machine Learning & Deep Learning**
 
