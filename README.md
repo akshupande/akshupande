@@ -2,9 +2,9 @@
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
 
-- 🔭 I’m currently working on **PHP, AWS Cloud, Artificial Intelligence**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **PHP, AWS Cloud, Artificial Intelligence, Salesforce**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
