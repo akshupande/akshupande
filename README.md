@@ -83,5 +83,5 @@ Thank You for visiting my gitHub profile.</br>
 Connect with me over socials.</br>
 Keep Rising 🚀. 
 
--- 2024 © Copyright - Template designed & developed by Akshat Pande. 
-All Rights Reserved. --
+~~ 2024 © Copyright - Template designed & developed by Akshat Pande. </br>
+All Rights Reserved. ~~
