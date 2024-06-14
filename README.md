@@ -33,27 +33,33 @@
 </p>
 -->
 
-<a href="mailto:itakshatpande03@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
-</a> 
-&nbsp;
-<a href="mailto:itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
+<div style="display: inline-block;">
+  <a href="mailto:itakshatpande03@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
+  </a> 
+  &nbsp;
+  <a href="mailto:itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
+</div>
 
 <br>
 
-<a href="https://in.linkedin.com/in/akshu-pande">
-  <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/akshu-pande">LinkedIn.com</a>
+<div style="display: inline-block;">
+  <a href="https://in.linkedin.com/in/akshu-pande">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshu-pande">LinkedIn.com</a>
+</div>
 
 <br>
 
-<a href="https://sites.google.com/view/akshatpande/home">
-  <img alt="Portfolio" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
-</a>
-&nbsp;
-<a href="https://sites.google.com/view/akshatpande/home">Portfolio.com</a>
+<div style="display: inline-block;">
+  <a href="https://sites.google.com/view/akshatpande/home">
+    <img alt="Portfolio" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
+  </a>
+  &nbsp;
+  <a href="https://sites.google.com/view/akshatpande/home">Portfolio.com</a>
+</div>
 
 
 <p><h3 align="left">Accomplishments:-</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
