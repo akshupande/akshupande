@@ -21,6 +21,8 @@
 - 💬 Ask me about Python, SQL, Power BI, Excel, PHP, HTML, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 <h3 align="left">Connect with me:-</h3>
+
+<!--
 <p align="left"> 
 <a href= "mailto:itakshatpande03@gmail.com"><img align="center" src="assets/gmail.png" alt="akshupande" height="30" width="40" /></a> <a href="mailto:itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
 
@@ -29,19 +31,7 @@
 
 <a href= "https://sites.google.com/view/akshatpande/home"><img align="center" src="assets/portfolio.png" alt="akshupande" height="30" width="40" /></a> [Portfolio.com](https://sites.google.com/view/akshatpande/home)
 </p>
-
-
-<a href="mailto: itakshatpande03@gmail.com" title="Gmail">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
-
-<a href="https://in.linkedin.com/in/akshu-pande">
-<img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-
-<a href="https://sites.google.com/view/akshatpande/home" title="Portfolio">
-<img alt="Portfolio" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
-
-
-
+-->
 
 <a href="mailto:itakshatpande03@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
@@ -63,16 +53,13 @@
 <a href="https://sites.google.com/view/akshatpande/home">Portfolio.com</a>
 
 
-
-
-
 <p><h3 align="left">Accomplishments:-</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
 
 <h3 align="left">Languages and Tools:-</h3>
 
 <div>
 
-### Programming Languages:
+### rogramming Languages:
 
 | Python | Java | C |
 |----------|----------|----------|
