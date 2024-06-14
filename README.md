@@ -4,9 +4,7 @@
 
 
 ---
-
 <h2 align="center">Hi, I am Akshat Pande</h2>
-
 ---
 
 
@@ -92,4 +90,4 @@ Connect with me over socials.</br>
 Keep Rising 🚀. 
 
 > [!TIP]
-> ~~2024 © Copyright - Template designed & developed by Akshat Pande.~~ </br>~~All Rights Reserved.~~
+> ~~2024 © Copyright - Template designed & developed by Akshat Pande. All Rights Reserved.~~
