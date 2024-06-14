@@ -35,14 +35,15 @@
 
 <p align="left"> 
 <a href="mailto: itakshatpande03@gmail.com" title="Gmail">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akshupande" height="30" width="40" /></a> <a href="mailto: itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akshupande" height="30" width="40" /></a>&nbsp; <a href="mailto: itakshatpande03@gmail.com">itakshatpande03@gmail.com</a><br/>
 
-<a href="https://in.linkedin.com/in/akshu-pande">
-<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="akshupande" height="30" width="40" /></a> [LinkedIn.com](https://www.linkedin.com/in/akshu-pande)
+<a href="https://in.linkedin.com/in/akshu-pande" title="LinkedIn">
+<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="akshupande" height="30" width="40" /></a>&nbsp; LinkedIn.com
 </p>
 
+<p>
 <a href="https://sites.google.com/view/akshatpande/home" title="Portfolio">
-<img align="center" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" alt="akshupande" height="30" width="40" /></a> [Portfolio.com](https://sites.google.com/view/akshatpande/home)
+<img align="center" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" alt="akshupande" height="30" width="40" /></a>&nbsp; Portfolio.com
 </p>
 
 <p><h3 align="left">Accomplishments:-</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
