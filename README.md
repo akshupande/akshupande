@@ -6,6 +6,7 @@
 <h2 align="center" style="margin: 0;">Hi, I am Akshat Pande</h2>
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
+</div>
 
 - 🔭 I’m currently working on **Data Analysis**
 
