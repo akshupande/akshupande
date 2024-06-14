@@ -34,31 +34,31 @@
 -->
 
 <div style="display: inline-block;">
-  <a href="mailto:itakshatpande03@gmail.com">
+  <a href="mailto:itakshatpande03@gmail.com" style="display: inline-block; vertical-align: middle;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
   </a> 
   &nbsp;
-  <a href="mailto:itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
+  <a href="mailto:itakshatpande03@gmail.com" style="vertical-align: middle;">itakshatpande03@gmail.com</a>
 </div>
 
 <br>
 
 <div style="display: inline-block;">
-  <a href="https://in.linkedin.com/in/akshu-pande">
+  <a href="https://in.linkedin.com/in/akshu-pande" style="display: inline-block; vertical-align: middle;">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/akshu-pande">LinkedIn.com</a>
+  <a href="https://www.linkedin.com/in/akshu-pande" style="vertical-align: middle;">LinkedIn.com</a>
 </div>
 
 <br>
 
 <div style="display: inline-block;">
-  <a href="https://sites.google.com/view/akshatpande/home">
+  <a href="https://sites.google.com/view/akshatpande/home" style="display: inline-block; vertical-align: middle;">
     <img alt="Portfolio" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
   </a>
   &nbsp;
-  <a href="https://sites.google.com/view/akshatpande/home">Portfolio.com</a>
+  <a href="https://sites.google.com/view/akshatpande/home" style="vertical-align: middle;">Portfolio.com</a>
 </div>
 
 
