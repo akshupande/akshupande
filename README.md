@@ -72,9 +72,16 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-Designed With ❤️ by <u>Akshat Pande</u></br>
+---
+
+**Akshat's Github Profile**
+
+---
 
 Thank You for visiting my gitHub profile.</br>
 
-Connect with me over socials.
+Connect with me over socials.</br>
 Keep Rising 🚀. 
+
+-- 2024 © Copyright - Template designed & developed by Akshat Pande. 
+All Rights Reserved. --
