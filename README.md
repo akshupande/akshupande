@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshupande&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi, I am Akshat Pande</h1>
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
