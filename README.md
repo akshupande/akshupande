@@ -45,7 +45,7 @@
 </p>
 
 <p><h3 align="left">Accomplishments:-</h3> 
-<a href= "https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link"><img align="center" src="assets/accomplishments.png" alt="akshupande" height="30" width="40" /></a>&nbsp;
+<a href= "https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link"><img align="center" src="assets/accomplishments.png" alt="akshupande" height="30" /></a>&nbsp;
 <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
 
 <h3 align="left">Languages and Tools:-</h3>
