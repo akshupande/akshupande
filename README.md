@@ -23,6 +23,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div>
+
+### Languages:
+| Python | Java | C |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
+
+### Additional Skills
+
+| SQL | Excel | Power BI | PHP | HTML | CSS |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original-wordmark.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original-wordmark.svg" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+
+
 ---
 
   
@@ -51,3 +65,4 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+Thank You for Visiting!!
