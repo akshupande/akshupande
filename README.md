@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Python, SQL, Power BI, Excel, PHP, HTML, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left"> 
 <a href= "mailto:itakshatpande03@gmail.com"><img align="center" src="assets/gmail.png" alt="akshupande" height="30" width="40" /></a> <a href="mailto:itakshatpande03@gmail.com">itakshatpande03@gmail.com</a>
 
@@ -26,13 +26,14 @@
 <a href= "https://sites.google.com/view/akshatpande/home"><img align="center" src="assets/portfolio.png" alt="akshupande" height="30" width="40" /></a> [Portfolio.com](https://sites.google.com/view/akshatpande/home)
 </p>
 
-<p><h3 align="left">Accomplishments</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
+<p><h3 align="left">Accomplishments:-</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank">View</a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:-</h3>
 
 <div>
 
 ### Programming Languages:
+
 | Python | Java | C |
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
