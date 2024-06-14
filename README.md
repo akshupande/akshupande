@@ -5,6 +5,7 @@
 ---
 <h2 align="center">Hi, I am Akshat Pande</h2>
 ---
+
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
 
@@ -86,5 +87,6 @@ Thank You for visiting my gitHub profile.</br>
 Connect with me over socials.</br>
 Keep Rising 🚀. 
 
-~~2024 © Copyright - Template designed & developed by Akshat Pande.~~ </br>
-~~All Rights Reserved.~~
+> [!TIP]
+> ~~2024 © Copyright - Template designed & developed by Akshat Pande.~~ </br>
+> ~~All Rights Reserved.~~
