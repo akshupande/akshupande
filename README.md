@@ -19,7 +19,7 @@
 <a href= "https://www.linkedin.com/in/akshu-pande"><img align="center" src="https://user-images.githubusercontent.com/87655422/235964686-80b1e405-d670-48f2-9ce2-c8ca8b93f85e.png" alt="akshupande" height="30" width="40" /></a> [LinkedIn.com](https://www.linkedin.com/in/akshu-pande)
 </p>
 
-<h3 align="left">Accomplishments</h3> <p> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank"> View </a></p>
+<p> <h3 align="left">Accomplishments</h3> <a href="https://drive.google.com/drive/folders/1hed-wqC5BGn4MzRhORxLhYm1N3XmGQud?usp=drive_link" target="_blank"> View </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
