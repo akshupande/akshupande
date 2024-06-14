@@ -33,8 +33,8 @@
 ### Additional Skills
 
 | SQL | Excel | Power BI | PHP | HTML | CSS |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original-wordmark.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original-wordmark.svg" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+|----------|----------|----------|----------|----------|----------| 
+|<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original-wordmark.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original-wordmark.svg" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
 
 
 ---
