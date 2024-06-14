@@ -3,11 +3,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshupande&title=Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
----
+
+
 <h2 align="center">Hi, I am Akshat Pande</h2>
----
-
-
 <h3 align="center">B.Tech - IT Gradute</h3>
 <h4 align="center">Open to Work</h4>
 
@@ -84,10 +82,10 @@
 
 ---
 
-Thank You for visiting my gitHub profile.</br>
+[^]: Thank You for visiting my gitHub profile.</br>
 
-Connect with me over socials.</br>
-Keep Rising 🚀. 
+[^]:Connect with me over socials.</br>
+[^]:Keep Rising 🚀. 
 
-> [!TIP]
-> ~~2024 © Copyright - Template designed & developed by Akshat Pande. All Rights Reserved.~~
+> ~~2024 © Copyright - Template designed & developed by Akshat Pande.~~ </br>
+> ~~All Rights Reserved.~~
