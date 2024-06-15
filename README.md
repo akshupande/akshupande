@@ -1,6 +1,4 @@
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akshupande&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshupande&title=Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshupande&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
