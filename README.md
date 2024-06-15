@@ -52,7 +52,7 @@
 
 <div>
 
-### rogramming Languages:
+### Programming Languages:
 
 | Python | Java | C |
 |----------|----------|----------|
