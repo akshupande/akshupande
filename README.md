@@ -62,7 +62,7 @@
 
 | SQL | Excel | Power BI | PHP | HTML | CSS |
 |----------|----------|----------|----------|----------|----------| 
-|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/excel.jpg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/power-bi.jpg" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/excel.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/power-bi.png" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
 
 
 ---
