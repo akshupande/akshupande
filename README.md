@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Hi, I am Akshat Pande
-### B.Tech - IT Graduate
+### B.Tech.(IT)
 #### Open to Work
 
 </div>
