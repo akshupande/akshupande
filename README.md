@@ -4,7 +4,7 @@
 
 ## Hi, I am Akshat Pande
 ### Upcoming SE | B.Tech.(IT)
-#### Open to Work
+#### Open to Work | Open to new opportunities, while actively contributing to open-source projects.
 
 </div>
 
