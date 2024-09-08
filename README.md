@@ -3,7 +3,9 @@
 <div align="center">
 
 ## Hi, I am Akshat Pande
-### Upcoming SE | IT Engineer
+### Upcoming SE 
+### My Services: SQL, Python, Data Analysis, AI-ML, Salesforce 
+### Certified: OCI Data Science, AWS, Power BI, Hadoop, Big Data, Excel
 
 </div>
 
