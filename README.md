@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Hi, I am Akshat Pande
-### My Services: SQL, Python, Data Analysis 
+### Services: SQL, Python, Data Analysis 
 ### Certified: AWS, Power BI, Hadoop, Excel
 ### Learning: AI, Salesforce
 
