@@ -102,6 +102,3 @@
 
 > Connect with me over socials.</br>
 > Keep Rising 🚀. 
-
-> ~~2024 © Copyright - Template designed & developed by Akshat Pande.~~ </br>
-> ~~All Rights Reserved.~~
