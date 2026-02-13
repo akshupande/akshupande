@@ -57,7 +57,7 @@
 
 | Advance SQL | Databricks |
 |----------|----------|
-|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|
+|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/databricks.png" title="Databricks" alt="Databricks" width="55" height="55"/>|
 
 
 ---
