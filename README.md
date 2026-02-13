@@ -3,21 +3,17 @@
 <div align="center">
 
 ## Hi, I am Akshat Pande
-### Services: SQL, Python, Data Analysis 
-### Certified: AWS, Power BI, Hadoop, Excel
-### Learning: AI, Salesforce
+### SE(Full Stack AI Engineer)@TCSL CoE
 
 </div>
 
-- 🔭 I’m currently working on **Data Analysis**
-
-- 🌱 I’m currently learning **PHP, AWS Cloud, Artificial Intelligence, Salesforce**
+- 🔭 I’m currently working on **Predictive Analytics, Agentic AI, Generative AI, MLOps**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
 - 👀 Check out my LinkedIn profile to see my work experience, certifications, events, and competition experience! 
 
-- 💬 Ask me about Python, SQL, Power BI, Excel, PHP, HTML, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
+- 💬 Ask me about Python, SQL, Full Stack, AI, Competitive Coding. I'm passionate about these topics and always happy to share my knowledge! Let's connect and chat about tech!
 
 <h3 align="left">Connect with me:-</h3>
 
@@ -53,15 +49,15 @@
 
 ##### Programming Languages:
 
-| Python | Java | C |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
+| Advance Python | Core Java |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
 
 ##### Technical Skills:
 
-| SQL | Excel | Power BI | PHP | HTML | CSS |
-|----------|----------|----------|----------|----------|----------| 
-|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|<img src="assets/excel.png" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/power-bi.png" title="Power BI" alt="Power BI" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+| Advance SQL | Databricks |
+|----------|----------|
+|<img src="assets/sql.png" title="SQL" alt="SQL" width="55" height="55"/>|
 
 
 ---
